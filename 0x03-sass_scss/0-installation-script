@@ -1,0 +1,5 @@
+To install sass in Windows using npm (node package manager)
+use the followiwng command: npm install sass --save-dev.
+
+NB The command provided: npm install sass -v 3.7.4 prints the npm version and does not install sass.
+# To install a specific version of sass, use the following command: npm install sass@3.7.4 --save-dev
